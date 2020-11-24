@@ -2,3 +2,5 @@ tiny-compiler.vcxproj
 tiny-compiler.vcxproj.*
 Debug
 .vs
+*.exe
+*.tm
